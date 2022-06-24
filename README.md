@@ -1,4 +1,4 @@
-# Universidade das Heurísticas 
+# Universidade das Heurísticas  
 
 O objetivo deste trabalho é desenvolver um jogo com foco no processo de ensino-aprendizagem que  
 englobe o conhecimento de heurísticas de Nielsen no contexto de IHC e possibilite ao  
